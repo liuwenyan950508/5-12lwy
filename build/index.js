@@ -1,0 +1,1 @@
+var i=0,a=1;function add(a,d){return a+d}add(i+a);

@@ -1,0 +1,1 @@
+$.ajax({url:"/api/data",dataType:"json",success:function(o){console.log(o)},error:function(o){console.log(o)}});
